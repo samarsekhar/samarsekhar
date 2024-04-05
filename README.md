@@ -13,11 +13,11 @@
 
 - 📄 Know about my experiences [https://samar-sekhar-cv.vercel.app](https://samar-sekhar-cv.vercel.app)
 
-- ⚡ Fun fact **I think all things are funny.**
+- ⚡ Fun fact **I think i'm funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samar-sekhar-sahoo-58b3b3221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samar-sekhar-sahoo-58b3b3221" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samar-sekhar-sahoo-58b3b3221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samar-sekhar-sahoo-58b3b3221" height="30" width="40" /></a> <br/>
 <a href="https://www.youtube.com/c/https://youtube.com/@prostacksamar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@prostacksamar" height="30" width="40" /></a>
 </p>
 
