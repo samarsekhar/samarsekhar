@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samar-sekhar-cv.vercel.app](https://samar-sekhar-cv.vercel.app)
 
-- 📝 I regularly write articles on [https://youtube.com/@prostacksamar](https://youtube.com/@prostacksamar)
+- 📝 I regularly write articles on [https://youtube.com/@developersamarsekhar](www.youtube.com/@DeveloperSamarsekhar)
 
 - 💬 Ask me about **Frontend & Backend**
 
